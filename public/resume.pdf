@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Resume Placeholder</title>
+</head>
+<body>
+    <h1>John Doe - Data Engineer & Analyst Resume</h1>
+    <p>This is a placeholder for the resume PDF. In a real implementation, this would be your actual resume file.</p>
+</body>
+</html>
